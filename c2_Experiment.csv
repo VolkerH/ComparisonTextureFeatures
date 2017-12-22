@@ -1,0 +1,104 @@
+Key,Value
+CellProfiler_Version,2016-04-18T14:19:27 9969f42
+ChannelType_Cells,Objects
+ChannelType_intensity,Grayscale
+Default_InputFolder,/Users/volkerhilsenstein
+Default_OutputFolder,/Users/volkerhilsenstein
+ImageSet_Zip_Dictionary,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+PE9NRSB4bWxucz0iaHR0cDovL3d3dy5vcGVubWljcm9zY29weS5vcmcvU2NoZW1hcy9PTUUvMjAxNS0wMSI+PEltYWdlIElEPSJpbnRlbnNpdHkiPjxQaXhlbHMgRGltZW5zaW9uT3JkZXI9IlhZQ1pUIiBJRD0iUGl4ZWxzOmludGVuc2l0eSIgU2l6ZVQ9IjEiIFNpemVYPSIxIiBTaXplWT0iMSI+PFRpZmZEYXRhIEZpcnN0Qz0iMCIgRmlyc3RUPSIwIiBGaXJzdFo9IjAiIElGRD0iMCIgUGxhbmVDb3VudD0iMSI+PFVVSUQgRmlsZU5hbWU9ImZpbGU6L1VzZXJzL3ZvbGtlcmhpbHNlbnN0ZWluL0Ryb3Bib3gvVm9sa2VyL1dvcmsvR2l0TGFiL0NvbXBhcmlzb25DUF9oYXJhbGljay9kYXRhL2NvcnJlY3RlZF9pbnRlbnNpdHkwMDAudGlmIi8+PC9UaWZmRGF0YT48UGxhbmUgVGhlQz0iMCIgVGhlVD0iMCIgVGhlWj0iMCIvPjwvUGl4ZWxzPjwvSW1hZ2U+PEltYWdlIElEPSJDZWxscyI+PFBpeGVscyBEaW1lbnNpb25PcmRlcj0iWFlUQ1oiIElEPSJQaXhlbHM6Q2VsbHMiIFNpemVUPSIxIiBTaXplWD0iMSIgU2l6ZVk9IjEiPjxUaWZmRGF0YSBGaXJzdEM9IjAiIEZpcnN0VD0iMCIgRmlyc3RaPSIwIiBJRkQ9IjAiIFBsYW5lQ291bnQ9IjEiPjxVVUlEIEZpbGVOYW1lPSJmaWxlOi9Vc2Vycy92b2xrZXJoaWxzZW5zdGVpbi9Ecm9wYm94L1ZvbGtlci9Xb3JrL0dpdExhYi9Db21wYXJpc29uQ1BfaGFyYWxpY2svZGF0YS9jZWxsX2xhYmVsczAwMDEudGlmIi8+PC9UaWZmRGF0YT48UGxhbmUgVGhlQz0iMCIgVGhlVD0iMCIgVGhlWj0iMCIvPjwvUGl4ZWxzPjwvSW1hZ2U+PE8wMDAzLnRpZiIvPjwvVGlmZkRhdGE+PFBsYW5lIFRoZUM9IjAiIFRoZVQ9IjAiIFRoZVo9IjAiLz48L1BpeGVscz48L0ltYWdlPjwwMDA1LnRpZiIvPjwvVGlmZkRhdGE+PFBsYW5lIFRoZUM9IjAiIFRoZVQ9IjAiIFRoZVo9IjAiLz48L1BpeGVscz48L0ltYWdlPjx4bWx2c2lvbjEuMCJlbmNvRiJhbmRhbz9PTUVuc3A6L3d3Lm9pb3JnU21zL09NRTUtMDEiPjxJbWFnZSBJaW50ZW5zaXR5Ij48UGl4ZWxzIERpbWVuc2lvbk9yZGVyPSJYWVQiIElpbnRlbnNpdHkiIFNpemU9IjEiIFNpemVYPSIxIlk9IjEiPjxUaWZmRGF0YSBGaXJzdEM9IjAiIEZpcnN0VD0iMCIgWj0iMCJEPSJudD0iMVVJRCBGaWxtZT0iaWxlOmVyc3NlaW5yb3B4b2xrZXJrL2l0YWJDb1BfaGFyYWxpY2t0ZWRlbnMwMGlmPjxQbGFuZSBUaGVDPSIwIiBUaGVUPSIwIj0iMCIvPjwvPjwvbWE+PEltYWdlIElEPSJlbD48UGl4ZWxzIGVuc2lDWiIgSUQ9IlBpeGVsczpDZWxscyIgU2l6ZVQ9IjEiIFNpemVYPSIxIiBTaXplWT0iMSI+PFRpZmZEYXRhIEZpcnN0Qz0iMCIgRmlyc3RUPSIwIiBGaXJzdFo9IjAiIElGRD0iMCIgUGxhbmVDb3VudD0iMSI+PFVVSUQgRmlsZU5hbWU9ImZpbGU6L1VzZXJzL3ZvbGtlcmhpbHNlbnN0ZWluL0Ryb3Bib3gvVm9sa2VyL1dvcmsvR2l0TGFiL0NvbXBhcmlzb25DUF9oYXJhbGljay9kYXRhL2NlbGxsYTAwMDcudGlmIi8+PC9UaWZmRGF0YT48UGxhbmUgVGhlQz0iMCIgVGhlVD0iMCIgVGhlWj0iMCIvPjwvUGl4ZWxzPjwvSW1hZ2U+PA==
+Metadata_Tags,"[""ImageNumber""]"
+Pipeline_Pipeline,"CellProfiler Pipeline: http://www.cellprofiler.org
+Version:3
+DateRevision:20160418141927
+GitHash:9969f42
+ModuleCount:6
+HasImagePlaneDetails:False
+
+Images:[module_num:1|svn_version:\'Unknown\'|variable_revision_number:2|show_window:False|notes:\x5B\'To begin creating your project, use the Images module to compile a list of files and/or folders that you want to analyze. You can also specify a set of rules to include only the desired files in your selected folders.\'\x5D|batch_state:array(\x5B\x5D, dtype=uint8)|enabled:True|wants_pause:False]
+    :
+    Filter images?:Images only
+    Select the rule criteria:and (extension does isimage) (directory doesnot containregexp ""\x5B\\\\\\\\\\\\\\\\/\x5D\\\\\\\\."")
+
+Metadata:[module_num:2|svn_version:\'Unknown\'|variable_revision_number:4|show_window:False|notes:\x5B\'The Metadata module optionally allows you to extract information describing your images (i.e, metadata) which will be stored along with your measurements. This information can be contained in the file name and/or location, or in an external file.\'\x5D|batch_state:array(\x5B\x5D, dtype=uint8)|enabled:True|wants_pause:False]
+    Extract metadata?:No
+    Metadata data type:Text
+    Metadata types:{}
+    Extraction method count:1
+    Metadata extraction method:Extract from file/folder names
+    Metadata source:File name
+    Regular expression:^(?P<Plate>.*)_(?P<Well>\x5BA-P\x5D\x5B0-9\x5D{2})_s(?P<Site>\x5B0-9\x5D)_w(?P<ChannelNumber>\x5B0-9\x5D)
+    Regular expression:(?P<Date>\x5B0-9\x5D{4}_\x5B0-9\x5D{2}_\x5B0-9\x5D{2})$
+    Extract metadata from:All images
+    Select the filtering criteria:and (file does contain """")
+    Metadata file location:
+    Match file and image metadata:\x5B\x5D
+    Use case insensitive matching?:No
+
+NamesAndTypes:[module_num:3|svn_version:\'Unknown\'|variable_revision_number:6|show_window:False|notes:\x5B\'The NamesAndTypes module allows you to assign a meaningful name to each image by which other modules will refer to it.\'\x5D|batch_state:array(\x5B\x5D, dtype=uint8)|enabled:True|wants_pause:False]
+    Assign a name to:Images matching rules
+    Select the image type:Grayscale image
+    Name to assign these images:DNA
+    Match metadata:\x5B\x5D
+    Image set matching method:Order
+    Set intensity range from:Manual
+    Assignments count:2
+    Single images count:0
+    Maximum intensity:255.0
+    Select the rule criteria:and (file does startwith ""corr"")
+    Name to assign these images:intensity
+    Name to assign these objects:Cell
+    Select the image type:Grayscale image
+    Set intensity range from:Image metadata
+    Retain outlines of loaded objects?:No
+    Name the outline image:LoadedOutlines
+    Maximum intensity:255.0
+    Select the rule criteria:and (file does contain ""cell"")
+    Name to assign these images:cell_labels
+    Name to assign these objects:Cells
+    Select the image type:Objects
+    Set intensity range from:Image metadata
+    Retain outlines of loaded objects?:No
+    Name the outline image:LoadedOutlines
+    Maximum intensity:255.0
+
+Groups:[module_num:4|svn_version:\'Unknown\'|variable_revision_number:2|show_window:False|notes:\x5B\'The Groups module optionally allows you to split your list of images into image subsets (groups) which will be processed independently of each other. Examples of groupings include screening batches, microtiter plates, time-lapse movies, etc.\'\x5D|batch_state:array(\x5B\x5D, dtype=uint8)|enabled:True|wants_pause:False]
+    Do you want to group your images?:No
+    grouping metadata count:1
+    Metadata category:None
+
+MeasureTexture:[module_num:5|svn_version:\'Unknown\'|variable_revision_number:4|show_window:True|notes:\x5B\x5D|batch_state:array(\x5B\x5D, dtype=uint8)|enabled:True|wants_pause:False]
+    Hidden:1
+    Hidden:1
+    Hidden:1
+    Select an image to measure:intensity
+    Select objects to measure:Cells
+    Texture scale to measure:3
+    Angles to measure:Horizontal,Vertical,Diagonal,Anti-diagonal
+    Measure Gabor features?:No
+    Number of angles to compute for Gabor:4
+    Measure images or objects?:Objects
+
+ExportToSpreadsheet:[module_num:6|svn_version:\'Unknown\'|variable_revision_number:11|show_window:True|notes:\x5B\x5D|batch_state:array(\x5B\x5D, dtype=uint8)|enabled:True|wants_pause:False]
+    Select the column delimiter:Comma ("","")
+    Add image metadata columns to your object data file?:No
+    Limit output to a size that is allowed in Excel?:No
+    Select the measurements to export:No
+    Calculate the per-image mean values for object measurements?:No
+    Calculate the per-image median values for object measurements?:No
+    Calculate the per-image standard deviation values for object measurements?:No
+    Output file location:Default Input Folder sub-folder\x7CDropbox/Volker/Work/GitLab/ComparisonCP_haralick
+    Create a GenePattern GCT file?:No
+    Select source of sample row name:Metadata
+    Select the image to use as the identifier:None
+    Select the metadata to use as the identifier:None
+    Export all measurement types?:Yes
+    :
+    Representation of Nan/Inf:NaN
+    Add a prefix to file names?:Yes
+    Filename prefix:c2_
+    Overwrite existing files without warning?:No
+    Data to export:Do not use
+    Combine these object measurements with those of the previous object?:No
+    File name:DATA.csv
+    Use the object name for the file name?:Yes
+"
+Run_Timestamp,2017-12-22T14:17:50.484339
